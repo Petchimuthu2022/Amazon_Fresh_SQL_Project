@@ -5,4 +5,5 @@ Built aggregation and filtering queries using WHERE, GROUP BY, HAVING, and ORDER
 Used multi-table JOINs to calculate revenue per order and identify high-value customers.
 Applied subqueries to find top-selling products and customers with no orders, and normalized the Products table to 3NF by extracting a Categories table.
 Derived actionable business insights, including Prime member concentration by city and the top 3 most frequently ordered product categories.
-<img width="1907" height="777" alt="image" src="https://github.com/user-attachments/assets/2134bc58-df85-4fef-a700-c6aa4bfa4a6b" />
+<img width="1907" height="742" alt="image" src="https://github.com/user-attachments/assets/55e3a6e3-3a54-4d6e-be03-f242b5fbe047" />
+
